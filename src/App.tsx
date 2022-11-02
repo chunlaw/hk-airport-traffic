@@ -13,7 +13,7 @@ const App = () =>  {
   const [data, setData] = useState<any[]>([]);
 
   useEffect(() => {
-    fetch('/data.csv')
+    fetch('data.csv')
       .then(r => r.text())
       .then(data => {
         csv.default({})
