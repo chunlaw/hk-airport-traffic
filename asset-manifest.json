@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/hk-airport-traffic/static/css/main.e6c13ad2.css",
+    "main.js": "/hk-airport-traffic/static/js/main.7870782b.js",
+    "static/js/787.584528cf.chunk.js": "/hk-airport-traffic/static/js/787.584528cf.chunk.js",
+    "index.html": "/hk-airport-traffic/index.html",
+    "main.e6c13ad2.css.map": "/hk-airport-traffic/static/css/main.e6c13ad2.css.map",
+    "main.7870782b.js.map": "/hk-airport-traffic/static/js/main.7870782b.js.map",
+    "787.584528cf.chunk.js.map": "/hk-airport-traffic/static/js/787.584528cf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.7870782b.js"
+  ]
+}
